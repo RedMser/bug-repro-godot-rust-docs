@@ -1,0 +1,2 @@
+[env]
+GODOT4_BIN = { value = "../bin/godot.exe", relative = true }
